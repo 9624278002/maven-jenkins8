@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New User Register for training</h1>
-    <p>Deploy using Jenkins Pipeline. Github SCM</p>
+    <p>Deploy using Jenkins Pipeline. Githu</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
